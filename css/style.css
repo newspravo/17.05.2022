@@ -18,7 +18,7 @@
 .wrapper {
 	background-color: beige;
 	margin: 50px auto;
-	max-width: 100%;
+	width: calc(100% - 200px);
 	font-size: 0;
 }
 .mainMenu {
